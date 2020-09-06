@@ -258,3 +258,4 @@ dmypy.json
 # Pyre type checker
 >>>>>>> d1ae51cf3b09efb404937abefd5f442711df636f
 .pyre/
+.vscode/settings.json
